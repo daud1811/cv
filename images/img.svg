@@ -1,0 +1,71 @@
+<?xml version="1.0"?><svg width="8660.19431" height="6920.80281" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>cloud</title>
+ <defs>
+  <linearGradient id="linearGradient6414">
+   <stop id="stop6416" offset="0" stop-color="#ffffff"/>
+   <stop id="stop6418" offset="1" stop-opacity="0" stop-color="#89b9ff"/>
+  </linearGradient>
+  <radialGradient xlink:href="#linearGradient6414" id="radialGradient2736" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.5214751,0,157.15804)" cx="325.26562" cy="328.42188" fx="325.26562" fy="328.42188" r="181.09038"/>
+  <linearGradient xlink:href="#linearGradient5168" id="linearGradient6125" gradientUnits="userSpaceOnUse" x1="393.01285" y1="425.21579" x2="372.45071" y2="490.77036" gradientTransform="translate(195.94286,16.830344)"/>
+  <linearGradient xlink:href="#linearGradient5168" id="linearGradient6129" gradientUnits="userSpaceOnUse" x1="361.67862" y1="350.3981" x2="361.7919" y2="371.05057" gradientTransform="translate(195.94286,16.830344)"/>
+  <linearGradient id="linearGradient5168">
+   <stop offset="0" id="stop5170" stop-color="#818181"/>
+   <stop offset="1" id="stop5172" stop-color="#e4e4e4"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient5168" id="linearGradient6132" gradientUnits="userSpaceOnUse" x1="367.90091" y1="428.16779" x2="319.18427" y2="466.27859" gradientTransform="translate(195.94286,16.830344)"/>
+  <linearGradient id="linearGradient4477">
+   <stop offset="0" id="stop4479" stop-color="#99df59"/>
+   <stop offset="1" id="stop4481" stop-color="#1c830a"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3366">
+   <stop id="stop3368" offset="0" stop-color="#c3b08a"/>
+   <stop id="stop3370" offset="1" stop-color="#6a5c43"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3186">
+   <stop offset="0" id="stop3188" stop-color="#c3b08a"/>
+   <stop offset="1" id="stop3190" stop-color="#e7dfd1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3262">
+   <stop offset="0" id="stop3264" stop-color="#b8d9e6"/>
+   <stop offset="1" id="stop3266" stop-color="#2669a9"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5997">
+   <stop offset="0" id="stop5999" stop-color="#706985"/>
+   <stop offset="1" id="stop6001" stop-color="#c8bfef"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6013">
+   <stop id="stop6015" offset="0" stop-color="#260c72"/>
+   <stop id="stop6017" offset="1" stop-color="#c8bfef"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3236">
+   <stop offset="0" id="stop3238" stop-color="#cccccc"/>
+   <stop offset="1" id="stop3240" stop-color="#f6f6f6"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4534">
+   <stop offset="0" id="stop4536" stop-color="#c7e0ec"/>
+   <stop offset="1" id="stop4538" stop-color="#3b6bb1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4528">
+   <stop id="stop4530" offset="0" stop-color="#c5d9e3"/>
+   <stop id="stop4532" offset="1" stop-color="#3b6bb1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4542">
+   <stop offset="0" id="stop4544" stop-color="#4879c2"/>
+   <stop offset="1" id="stop4546" stop-color="#f5f8fc"/>
+  </linearGradient>
+  <linearGradient id="svg_1" spreadMethod="pad">
+   <stop stop-color="#7abaf9" offset="1"/>
+   <stop stop-color="#854506" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata3228">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g6444">
+    <path id="path5530" d="m4626.76709,336.394928c-877.085693,0 -1617.968018,630.416779 -1848.484131,1491.320404c-95.962646,-61.158569 -206.362061,-96.347046 -324.397949,-96.347046c-365.030518,0 -661.216553,333.827515 -661.216553,745.248413c0,4.190918 -0.061523,8.178711 0,12.352051c-109.346558,-25.249268 -223.994141,-39.526855 -342.663818,-39.526855c-723.542969,0 -1310.743057,501.15332 -1310.743301,1118.284424c0,617.13208 587.200333,1118.284912 1310.743301,1118.284912c286.575928,0 551.368042,-79.209961 767.157471,-212.45752c128.876709,434.589844 492.562012,748.54248 921.31958,748.54248c290.535156,0 551.052734,-144.176758 729.165039,-372.212402c172.79248,101.873535 375.990967,160.578125 593.268311,160.578125c295.62793,0 565.416016,-108.385742 767.888672,-286.570313c272.834473,319.149902 674.019043,521.262207 1121.510254,521.262207c548.977051,0 1028.771973,-304.444824 1286.633301,-755.954102c38.819336,6.411621 78.645508,9.881836 119.091797,9.881836c436.732422,0 790.538086,-387.11084 790.538086,-864.65332c0,-477.541748 -353.805664,-865.476563 -790.538086,-865.476563c-78.148926,0 -153.712891,13.118896 -225.032715,36.233154c-235.333496,-312.658691 -587.186523,-529.419434 -989.26709,-582.199463c-82.248047,-1056.211548 -908.292969,-1886.590698 -1914.972168,-1886.590424z" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="2.587" stroke="#000000" fill-rule="nonzero" fill="url(#svg_1)"/>
+    <path id="path6438" d="m4584.939453,289.452667c-801.692871,2.702606 -1585.489258,606.279999 -1834.602539,1468.263153c-362.601318,-207.247559 -849.660767,32.501587 -967.348755,468.55957c-19.280029,66.123535 -31.93689,135.447021 -35.070068,205.046143c-568.898193,-112.921143 -1241.720154,96.915771 -1546.735641,681.840576c-204.009079,381.621582 -104.856209,899.266113 185.578995,1187.457031c470.992096,504.860352 1242.155182,558.189941 1806.838409,258.572266c183.203857,551.447754 777.601563,863.42334 1272.020508,660.430176c157.462402,-57.418457 300.925537,-171.179199 414.995605,-298.099609c424.048096,230.549316 960.883057,189.583496 1343.621338,-122.698242c613.919922,694.91748 1733.711426,666.633789 2310.970703,-69.995605c68.941895,-53.064941 88.631836,-208.274902 189.23291,-172.930664c466.306641,36.469238 905.393066,-433.974121 867.983887,-965.117188c-15.25293,-547.058838 -516.98584,-966.197754 -987.806641,-853.947998c-97.105957,45.350098 -134.304199,-116.460205 -214.07373,-157.284424c-225.774902,-223.560791 -525.463867,-345.375732 -806.61084,-406.798584c-85.687012,-953.937622 -817.773438,-1734.364685 -1650.242188,-1858.260468c-115.046387,-19.637268 -232.097656,-28.073364 -348.751953,-25.036133z" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="2.587" stroke="#a3ced5" fill-rule="nonzero" fill="url(#svg_1)"/>
+   </g>
+  </g>
+ </g>
+</svg>
